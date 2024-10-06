@@ -7,6 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 
+## This is a website template forked from AcademicPages
+
+
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
