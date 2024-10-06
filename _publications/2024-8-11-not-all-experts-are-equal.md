@@ -3,7 +3,7 @@ title: "Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mix
 collection: publications
 category: conferences
 permalink: /publication/2024-8-11-not-all-experts-are-equal
-excerpt: 'Author invited narrator, not in the authors \n Xudong Lu, Qi Liu, Yuhui Xu, Aojun Zhou, Siyuan Huang, Bo Zhang, Junchi Yan, Hongsheng Li'
+excerpt: 'Author invited narrator, not in the authors \n\n Xudong Lu, Qi Liu, Yuhui Xu, Aojun Zhou, Siyuan Huang, Bo Zhang, Junchi Yan, Hongsheng Li'
 date: 2024-7-11
 venue: 'The 62nd Annual Meeting of the Association for Computational Linguistics, 2024 (ACL2024)'
 slidesurl: ''
