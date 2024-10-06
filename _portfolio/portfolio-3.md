@@ -1,6 +1,6 @@
 ---
 title: "Film 3"
-excerpt: "Film 3<br/><img src='/images/film3.png'>"
+excerpt: "Film 3<br/><img src='/images/film3.jpg'>"
 collection: portfolio
 ---
 
