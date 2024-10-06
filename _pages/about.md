@@ -1,15 +1,10 @@
 ---
 permalink: /
-title: "程子铭 HarrytheOrange"
+title: "Harry ZimingCheng 程子铭"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Some thing about me
+This is my main page
 ======
-
-Heading 2
-======
-
-
