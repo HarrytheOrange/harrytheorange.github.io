@@ -3,7 +3,7 @@ title: "SpiritSight Agent: Advanced GUI Agent with One Look"
 collection: publications
 category: conferences
 permalink: /publication/2024-10-1-spiritsight-agent
-excerpt: 'Paper under double blind review \\ Zhiyuan Huang*, Harry Ziming Cheng*, Junting Pan, Mingjie Zhan'
+excerpt: 'Paper under double blind review \n Zhiyuan Huang*, Harry Ziming Cheng*, Junting Pan, Mingjie Zhan'
 date: 2024-10-1
 venue: 'Some top conference'
 slidesurl: ''
