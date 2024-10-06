@@ -31,12 +31,13 @@ Converted to poster due to Canadian Visa delay
 Ziming Cheng*, Xiangning Ruan*, Qixiang Yin, Zhicheng Zhao
 IEEE International Conference on Multimedia and Expo (ICME), 2024
 •	Hired and supervised more than 20 people to annotate a football crash case 3D human pose dataset.
+
 [ACL 2024 poster]	Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models
 Author invited narrator, not in the authors
 Xudong Lu, Qi Liu, Yuhui Xu, Aojun Zhou, Siyuan Huang, Bo Zhang, Junchi Yan, Hongsheng Li
 The 62nd Annual Meeting of the Association for Computational Linguistics, 2024
 
-[some top conference]	SpiritSight: Advanced GUI Agent with One Look
+[some top conference]	SpiritSight Agent: Advanced GUI Agent with One Look
 Paper under double blind review
 Zhiyuan Huang*, Harry Ziming Cheng*, Junting Pan, Mingjie Zhan
 The Thirteenth International Conference on Learning Representations
