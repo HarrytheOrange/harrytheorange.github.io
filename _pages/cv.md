@@ -29,20 +29,23 @@ Active member of school photographic association and school RoboMaster team
 - **GRE (329):** Verbal (159), Quantitative (170), Analytical Writing (3.5) — Aug 2024
 
 ## PUBLICATIONS & ACADEMIC
-- **[ICME 2024 oral]** *The Root Element of Human Poses is Radian: MCPRL is All You Need*  
+- **[ICME 2024 oral]** 
+- *The Root Element of Human Poses is Radian: MCPRL is All You Need*  
   Ziming Cheng\*, Xiangning Ruan\*, Qixiang Yin, Zhicheng Zhao  
   IEEE International Conference on Multimedia and Expo (ICME), 2024  
   Solely finished the core algorithm design, dataset construction, all the experiments and the main part of the paper.  
   Hired and supervised more than 20 people to annotate a football crash case 3D human pose dataset.
 
-- **[ACL 2024 poster]** *Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models*  
+- **[ACL 2024 poster]** 
+- *Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models*  
   **Author invited narrator, not in the authors**  
   Xudong Lu, Qi Liu, Yuhui Xu, Aojun Zhou, Siyuan Huang, Bo Zhang, Junchi Yan, Hongsheng Li  
   The 62nd Annual Meeting of the Association for Computational Linguistics, 2024  
   Delivered the poster to more than 30 people in two hours, gaining great notices.  
   Encouraged about 5 people to continue this research topic.
 
-- **[some top conference]** *SpiritSight Agent: Advanced GUI Agent with One Look*  
+- **[some top conference]** 
+- *SpiritSight Agent: Advanced GUI Agent with One Look*  
   Paper under double blind review  
   Zhiyuan Huang\*, Harry Ziming Cheng\*, Junting Pan, Mingjie Zhan  
   The Thirteenth International Conference on Learning Representations  
@@ -50,7 +53,8 @@ Active member of school photographic association and school RoboMaster team
   Handled the first version of the paper writing.  
   Designed all the visual effects and artwork in the paper.
 
-- **[Arxiv preprint]** *Towards Practical GUI Automation Agents: A Survey*  
+- **[Arxiv preprint]** 
+- *Towards Practical GUI Automation Agents: A Survey*  
   Harry Ziming Cheng  
   Arxiv preprint, 2024  
   Solely finished the full survey on GUI Agent.
