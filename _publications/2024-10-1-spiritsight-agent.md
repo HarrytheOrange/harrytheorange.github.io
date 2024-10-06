@@ -1,11 +1,11 @@
 ---
-title: "Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models"
+title: "SpiritSight Agent: Advanced GUI Agent with One Look"
 collection: publications
 category: conferences
-permalink: /publication/2024-8-11-not-all-experts-are-equal
-excerpt: 'Author invited narrator, not in the authors \\ Xudong Lu, Qi Liu, Yuhui Xu, Aojun Zhou, Siyuan Huang, Bo Zhang, Junchi Yan, Hongsheng Li'
-date: 2024-7-11
-venue: 'The 62nd Annual Meeting of the Association for Computational Linguistics, 2024 (ACL2024)'
+permalink: /publication/2024-10-1-spiritsight-agent
+excerpt: 'Paper under double blind review \\ Zhiyuan Huang*, Harry Ziming Cheng*, Junting Pan, Mingjie Zhan'
+date: 2024-10-1
+venue: 'Some top conference'
 slidesurl: ''
 paperurl: ''
 citation: ''
