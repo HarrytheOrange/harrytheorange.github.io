@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-7-15-mcprl-is-all-you-need
 excerpt: 'Ziming Cheng*, Xiangning Ruan*, Qixiang Yin, Zhicheng Zhao'
 date: 2024-7-15
-venue: '2024 IEEE International Conference on Multimedia and Expo (ICME)'
+venue: '2024 IEEE International Conference on Multimedia and Expo (ICME2024)'
 slidesurl: 'https://www.computer.org/csdl/proceedings-article/icme/2024/10687728/20F0vaiOMG4'
 paperurl: 'https://www.computer.org/csdl/proceedings-article/icme/2024/10687728/20F0vaiOMG4'
 citation: ''
