@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-10-1-spiritsight-agent
 excerpt: 'Paper under double blind review <br> Zhiyuan Huang*, Harry Ziming Cheng*, Junting Pan, Mingjie Zhan'
 date: 2024-10-1
-venue: 'Some top conference'
+venue: 'CVPR 2025'
 slidesurl: ''
 paperurl: ''
 citation: ''
