@@ -44,20 +44,20 @@ Active member of school photographic association and school RoboMaster team
   Delivered the poster to more than 30 people in two hours, gaining great notices.  
   Encouraged about 5 people to continue this research topic.
 
-- **[some top conference]** 
+- **[CVPR 2025]** 
 - *SpiritSight Agent: Advanced GUI Agent with One Look*  
   Paper under double blind review  
-  Zhiyuan Huang\*, Harry Ziming Cheng\*, Junting Pan, Mingjie Zhan  
+  Zhiyuan Huang\*, Ziming Cheng\*, Junting Pan, Mingjie Zhan  
   The Thirteenth International Conference on Learning Representations  
   Finished most of the data collection and dataset construction procedure.  
   Handled the first version of the paper writing.  
   Designed all the visual effects and artwork in the paper.
 
-- **[Arxiv preprint]** 
-- *Towards Practical GUI Automation Agents: A Survey*  
-  Harry Ziming Cheng  
-  Arxiv preprint, 2024  
-  Solely finished the full survey on GUI Agent.
+- **[ACL2025 submitted]** 
+- *Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up Questions*  
+- Paper under double blind review
+- Ziming Cheng  ......
+  
 
 ## WORK EXPERIENCE
 
